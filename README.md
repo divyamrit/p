@@ -1,5 +1,6 @@
 
-K.C.C
-Kashyap Chemistry Class
+#K.C.C
 
-For teachers by a student.
+##Kashyap Chemistry Class
+
+For the world of Chemistry .
