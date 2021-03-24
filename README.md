@@ -1,6 +1,6 @@
 
-#K.C.C
+# K.C.C
 
-##Kashyap Chemistry Class
+## Kashyap Chemistry Class
 
 For the world of Chemistry .
